@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=tries
+comment1.target=Player(int)
+comment10.params=
+comment10.target=void\ act()
+comment2.params=
+comment2.target=java.lang.String\ getCharacter()
+comment3.params=character
+comment3.target=void\ setCharacter(java.lang.String)
+comment4.params=
+comment4.target=int\ getTries()
+comment5.params=tries
+comment5.target=void\ setTries(int)
+comment6.params=
+comment6.target=double\ getScore()
+comment7.params=score
+comment7.target=void\ setScore(double)
+comment8.params=
+comment8.target=void\ setSlogan()
+comment9.params=
+comment9.target=void\ updateImage()
+numComments=11

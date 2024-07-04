@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SoundManager
+comment1.params=animal
+comment1.target=void\ animalSound(java.lang.String)
+comment2.params=
+comment2.target=void\ congratulationsSound()
+numComments=3

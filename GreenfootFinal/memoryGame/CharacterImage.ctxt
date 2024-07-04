@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CharacterImage
+comment1.params=characterName
+comment1.target=CharacterImage(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getCharacterName()
+comment3.params=
+comment3.target=boolean\ isSelected()
+comment4.params=selected
+comment4.target=void\ setSelected(boolean)
+comment5.params=
+comment5.target=void\ updateImage()
+comment6.params=
+comment6.target=void\ act()
+numComments=7

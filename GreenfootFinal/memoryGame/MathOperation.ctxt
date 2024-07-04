@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=MathOperation
+comment1.params=id\ type1\ value1\ type2\ value2\ operator\ question
+comment1.target=MathOperation(int,\ java.lang.String,\ int,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment10.params=res1\ res2
+comment10.target=void\ updateImage2(int,\ int)
+comment2.params=id\ type1\ value1\ val1\ op1\ type2\ value2\ val2\ op2\ operator\ question
+comment2.target=MathOperation(int,\ java.lang.String,\ int,\ int,\ java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=int\ getId()
+comment4.params=
+comment4.target=boolean\ isAnsweredCorrectly()
+comment5.params=answeredCorrectly
+comment5.target=void\ setAnsweredCorrectly(boolean)
+comment6.params=
+comment6.target=int\ calculateResult()
+comment7.params=
+comment7.target=int\ calculateResultOp1()
+comment8.params=
+comment8.target=int\ calculateResultOp2()
+comment9.params=
+comment9.target=void\ updateImage()
+numComments=11
